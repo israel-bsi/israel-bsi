@@ -1,16 +1,29 @@
-### Hi there 👋
+# Olá, me chamo Israel
+## Bem vindo ao meu perfil GitHub
 
-<!--
-**israel-bsi/israel-bsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📗 Sou Acadêmico em Barachelado em Ciência e Tecnologia
+- 💻 Com foco na formação em Engenharia da Computação
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+ 
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/israel.bsi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/israelbsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/israel-bsi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-bsi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=israel-bsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
