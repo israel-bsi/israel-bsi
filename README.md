@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/israelbsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-#Estatísticas
+## Estatísticas
 <div>
 ![israel-bsi's Stats](https://github-readme-stats.vercel.app/api?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 ![israel-bsi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=israel-bsi&theme=cobalt&hide_border=false)
