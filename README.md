@@ -20,8 +20,10 @@
 <a href="https://www.linkedin.com/in/israelbsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+![israel-bsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-bsi&theme=default&show_icons=true&hide_border=false&layout=compact)          
 <div>
 <a href="https://github.com/israel-bsi">
-![israel-bsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-bsi&theme=default&show_icons=true&hide_border=false&layout=compact)          
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israel-bsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
