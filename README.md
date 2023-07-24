@@ -20,8 +20,9 @@
 <a href="https://www.linkedin.com/in/israelbsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
 #Estatísticas
+<div>
 ![israel-bsi's Stats](https://github-readme-stats.vercel.app/api?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 ![israel-bsi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=israel-bsi&theme=cobalt&hide_border=false)
-![israel-bsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+![israel-bsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&layout=compact)          
+</div>
