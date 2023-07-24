@@ -22,7 +22,7 @@
 
 ## Estatísticas
 <div>
-<a>><img src="https://github-readme-stats.vercel.app/api?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&count_private=true"></a> 
-![israel-bsi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=israel-bsi&theme=cobalt&hide_border=false)
-![israel-bsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&layout=compact)          
+<a>><img src="https://github-readme-stats.vercel.app/api?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&count_private=true"></a
+<a>><img src="https://github-readme-streak-stats.herokuapp.com/?user=israel-bsi&theme=cobalt&hide_border=false"></a>
+<a>><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-bsi&theme=cobalt&show_icons=true&hide_border=false&layout=compact"></a>
 </div>
