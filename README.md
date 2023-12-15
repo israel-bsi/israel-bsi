@@ -1,9 +1,6 @@
 # Olá, me chamo Israel
-## Bem vindo ao meu perfil GitHub
-
-- 📗 Sou Acadêmico em Barachelado em Ciência e Tecnologia
-- 💻 Com foco na formação em Engenharia da Computação
-- 😄 Pronouns: He/Him
+- 💻 Tenho 24 anos, sou Desenvolvedor C# com 1 ano de experiência
+- 📗 Sou Acadêmico em Barachelado em Ciência e Tecnologia / Engenharia da Computação
 
 ## Ferramentas e Tecnologias
 
