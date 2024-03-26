@@ -1,5 +1,5 @@
 # Olá, me chamo Israel
-- 💻 Tenho 24 anos, sou Desenvolvedor C# com 1 ano de experiência
+- 💻 Tenho 24 anos, sou Desenvolvedor com 2 ano de experiência
 - 📗 Sou Acadêmico em Barachelado em Ciência e Tecnologia / Engenharia da Computação
 
 ## Ferramentas e Tecnologias
