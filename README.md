@@ -1,6 +1,6 @@
 ## Olá, me chamo Israel
 - 💻 Backend Developer
-- 📗 Acadêmico em Barachelado em Ciência e Tecnologia / Engenharia da Computação
+- 📗 Acadêmico em Barachelado em Ciência e Tecnologia / Engenharia da Computação pela UFMA
 
 ## Tecnologias utilizadas
 
