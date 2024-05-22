@@ -1,6 +1,8 @@
 ## Olá, me chamo Israel
 - 💻 Backend Developer
-- 📗 Acadêmico em Barachelado em Ciência e Tecnologia / Engenharia da Computação pela UFMA
+- 📗 Estudante de Bacharel em Ciência e Tecnologia / Engenharia da Computação na UFMA.
+- Como desenvolvedor júnior, trabalho em projetos desafiadores, como a automatização de processos e integração com sistemas de pagamento, utilizando C#, Java, Delphi e Firebird. 
+- Focado em aprimorar habilidades em desenvolvimento de software para contribuir em projetos inovadores enquanto continuo minha jornada na Engenharia da Computação.
 
 ## Tecnologias e ferramentas que utilizo
 
