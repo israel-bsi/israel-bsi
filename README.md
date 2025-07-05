@@ -1,8 +1,7 @@
 ## Olá, me chamo Israel
-- 💻 Fullstack Developer
+- 💻 .NET Developer
 - 📗 Estudante de Bacharel em Ciência e Tecnologia / Engenharia da Computação na UFMA.
-- Como desenvolvedor pleno, trabalho em projetos desafiadores, como a automatização de processos e integração com sistemas de pagamento, utilizando .Net, Delphi e Firebird. 
-- Focado em aprimorar habilidades em desenvolvimento de software para contribuir em projetos inovadores enquanto continuo minha jornada na Engenharia da Computação.
+- 👨‍💻 Desenvolvedor .NET com 3 anos de atuação no mercado, com formação em Bacharelado Interdisciplinar em Ciência e Tecnologia em andamento.
 
 ## Tecnologias e ferramentas que utilizo
 
