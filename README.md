@@ -1,7 +1,7 @@
 ## Olá, me chamo Israel
 - 💻 .NET Developer
 - 📗 Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia na UFMA.
-- 👨‍💻 Desenvolvedor .NET com 3 anos de atuação no mercado, com formação em Bacharelado Interdisciplinar em Ciência e Tecnologia em andamento.
+- 👨‍💻 Desenvolvedor .NET com 3 anos de atuação no mercado.
 
 ## Tecnologias e ferramentas que utilizo
 
