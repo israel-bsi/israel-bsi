@@ -16,6 +16,7 @@
 
 ### 📜 Certifications
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/IsraelSilva-8622/67844563841A6C51?sharingId=41E863D4950848C)
+- [Github Copilot (GH-300)](https://learn.microsoft.com/api/credentials/share/pt-br/IsraelSilva-8622/D0624399D89FEBC6?sharingId=41E863D4950848C)
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/israelbsilva/)
